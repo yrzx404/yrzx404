@@ -1,0 +1,15 @@
+# Build
+/*.egg-info
+/dist
+*.pyc
+
+# Development
+venv
+.vscode
+.idea
+*.log
+*.db
+
+# Docs
+/docs/_build
+/logs
