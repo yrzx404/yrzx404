@@ -2,11 +2,11 @@ name: 自动拉取最新博文
 
 on:
   workflow_dispatch:
-    push:
-      branches:
-        - main
-    schedule:
-      - cron: "15 0 * * *" # 每天 0:15 时运行
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "15 0 * * *" # 每天 0:15 时运行
 
 jobs:
   build:
