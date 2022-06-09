@@ -41,3 +41,5 @@ jobs:
           git add -A
           git commit -m "Updated README content `date`" || exit 0
           git push
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
