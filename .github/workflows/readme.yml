@@ -43,3 +43,4 @@ jobs:
           git push
         with:
           github_token: ${{ secrets.GH_TOKEN }}
+          branch: ${{ github.ref }}
