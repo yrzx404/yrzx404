@@ -6,7 +6,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "*/5 * * * *" # 每天 0:15 时运行
+    - cron: '15 0 * * *'
 
 jobs:
   build:
@@ -42,5 +42,3 @@ jobs:
           git add -A
           git commit -m "Updated README content `date`" || exit 0
           git push
-        env:
-          repo-token: ${{ secrets.GH_TOKEN }}
