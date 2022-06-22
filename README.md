@@ -35,8 +35,8 @@ Hi，欢迎来到我的Github。
 * <a href='http://www.javatiku.cn/tools/1510.html' target='_blank'>iPhone手机 IOS 充值微信豆优惠入口，1元钱十个微信豆，与安卓同价充值！直接节省30%！</a>
 * <a href='http://www.javatiku.cn/idea/1511.html' target='_blank'>IDEA破解失败？Pycharm破解失败？如何解决？</a>
 * <a href='http://www.javatiku.cn/tools/1597.html' target='_blank'>Charles抓包工具破解版下载【破解教程】</a>
+* <a href='http://www.javatiku.cn/tools/1633.html' target='_blank'>MicroKMS 神龙版 windows激活、office激活</a>
 * <a href='http://www.javatiku.cn/tools/1631.html' target='_blank'>Telerik Fiddler Everywhere 新版全平台适配抓包免费版下载【图文教程】</a>
-* <a href='http://www.javatiku.cn/ideaplugins/1414.html' target='_blank'>Intellij idea插件之Translation：翻译</a>
 <!-- blog ends -->
 
 </p>
