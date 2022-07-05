@@ -32,7 +32,7 @@ Hi，欢迎来到我的Github。
 <p>
 
 <!-- blog starts -->
-* <a href='http://www.javatiku.cn/idea/1834.html' target='_blank'>WebStorm File templates文件模版</a>
+* <a href='http://www.javatiku.cn/webstorm/1834.html' target='_blank'>WebStorm File templates文件模版</a>
 * <a href='http://www.javatiku.cn/vscode/1722.html' target='_blank'>VScode 下载速度慢 解决方法</a>
 * <a href='http://www.javatiku.cn/tools/1510.html' target='_blank'>iPhone手机 IOS 充值微信豆优惠入口，1元钱十个微信豆，与安卓同价充值！直接节省30%！</a>
 * <a href='http://www.javatiku.cn/idea/1511.html' target='_blank'>IDEA破解失败？Pycharm破解失败？如何解决？</a>
