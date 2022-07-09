@@ -36,7 +36,7 @@ Hi，欢迎来到我的Github。
 * <a href='http://www.javatiku.cn/vscode/1722.html' target='_blank'>VScode 下载速度慢 解决方法</a>
 * <a href='http://www.javatiku.cn/tools/1510.html' target='_blank'>iPhone手机 IOS 充值微信豆优惠入口，1元钱十个微信豆，与安卓同价充值！直接节省30%！</a>
 * <a href='http://www.javatiku.cn/idea/1511.html' target='_blank'>IDEA破解失败？Pycharm破解失败？如何解决？</a>
-* <a href='http://www.javatiku.cn/webstorm/1674.html' target='_blank'>WebStorm 如何配置键盘快捷键？</a>
+* <a href='http://www.javatiku.cn/goland/2845.html' target='_blank'>GoLand 如何运行 PostgreSQL 查询？</a>
 <!-- blog ends -->
 
 </p>
