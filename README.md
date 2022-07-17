@@ -32,11 +32,11 @@ Hi，欢迎来到我的Github。
 <p>
 
 <!-- blog starts -->
+* <a href='http://www.javatiku.cn/tools/3848.html' target='_blank'>android抓包神器 HttpCanary 破解版下载安装教程！</a>
+* <a href='http://www.javatiku.cn/tools/3845.html' target='_blank'>iOS抓包神器 Thor 免费版下载安装教程！</a>
 * <a href='http://www.javatiku.cn/webstorm/1834.html' target='_blank'>WebStorm File templates文件模版</a>
 * <a href='http://www.javatiku.cn/vscode/1722.html' target='_blank'>VScode 下载速度慢 解决方法</a>
 * <a href='http://www.javatiku.cn/pycharm/3840.html' target='_blank'>PyCharm 版本控制解决冲突</a>
-* <a href='http://www.javatiku.cn/pycharm/3831.html' target='_blank'>PyCharm 版本控制比较文件和文件夹版本</a>
-* <a href='http://www.javatiku.cn/pycharm/3830.html' target='_blank'>PyCharm 在版本控制下管理文件</a>
 <!-- blog ends -->
 
 </p>
