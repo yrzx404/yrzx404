@@ -32,11 +32,11 @@ Hi，欢迎来到我的Github。
 <p>
 
 <!-- blog starts -->
+* <a href='http://www.javatiku.cn/vps/3932.html' target='_blank'>搬瓦工CN2 GIA VPS入手测评</a>
+* <a href='http://www.javatiku.cn/vps/3931.html' target='_blank'>为VPS开启BBR拥塞控制算法</a>
+* <a href='http://www.javatiku.cn/vps/3926.html' target='_blank'>搬瓦工CN2线路VPS入手评测</a>
+* <a href='http://www.javatiku.cn/vps/3925.html' target='_blank'>搬瓦工vps服务器：CN2、GIA线路的区别？</a>
 * <a href='http://www.javatiku.cn/tools/3848.html' target='_blank'>android抓包神器 HttpCanary 破解版下载安装教程！</a>
-* <a href='http://www.javatiku.cn/tools/3845.html' target='_blank'>iOS抓包神器 Thor 免费版下载安装教程！</a>
-* <a href='http://www.javatiku.cn/webstorm/1834.html' target='_blank'>WebStorm File templates文件模版</a>
-* <a href='http://www.javatiku.cn/vscode/1722.html' target='_blank'>VScode 下载速度慢 解决方法</a>
-* <a href='http://www.javatiku.cn/pycharm/3840.html' target='_blank'>PyCharm 版本控制解决冲突</a>
 <!-- blog ends -->
 
 </p>
