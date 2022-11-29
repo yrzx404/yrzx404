@@ -32,11 +32,11 @@ Hi，欢迎来到我的Github。
 <p>
 
 <!-- blog starts -->
-* <a href='http://www.javatiku.cn/notion/4124.html' target='_blank'>【Notion教程】在 Notion 中实时协作</a>
-* <a href='http://www.javatiku.cn/notion/4117.html' target='_blank'>【Notion教程】分享你的 Notion 页面</a>
-* <a href='http://www.javatiku.cn/notion/4113.html' target='_blank'>【Notion教程】在 Notion 中邀请团队成员进行协作</a>
-* <a href='http://www.javatiku.cn/notion/4110.html' target='_blank'>【Notion教程】在 Notion 中浏览工作区</a>
-* <a href='http://www.javatiku.cn/notion/4092.html' target='_blank'>【Notion教程】在 Notion 中创建新数据库</a>
+* <a href='http://www.javatiku.cn/notion/4310.html' target='_blank'>【Notion教程】Notion 删除和恢复页面</a>
+* <a href='http://www.javatiku.cn/notion/4298.html' target='_blank'>【Notion教程】在 Notion 中创建你自己的模板</a>
+* <a href='http://www.javatiku.cn/notion/4294.html' target='_blank'>【Notion教程】Notion Callout blocks 标注块</a>
+* <a href='http://www.javatiku.cn/notion/4289.html' target='_blank'>【Notion教程】Notion 页面目录</a>
+* <a href='http://www.javatiku.cn/notion/4283.html' target='_blank'>【Notion教程】Notion 链接到其它页面&amp;双向链接</a>
 <!-- blog ends -->
 
 </p>
