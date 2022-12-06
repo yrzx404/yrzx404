@@ -32,11 +32,11 @@ Hi，欢迎来到我的Github。
 <p>
 
 <!-- blog starts -->
-* <a href='http://www.javatiku.cn/notion/4310.html' target='_blank'>【Notion教程】Notion 删除和恢复页面</a>
-* <a href='http://www.javatiku.cn/notion/4298.html' target='_blank'>【Notion教程】在 Notion 中创建你自己的模板</a>
-* <a href='http://www.javatiku.cn/notion/4294.html' target='_blank'>【Notion教程】Notion Callout blocks 标注块</a>
-* <a href='http://www.javatiku.cn/notion/4289.html' target='_blank'>【Notion教程】Notion 页面目录</a>
-* <a href='http://www.javatiku.cn/notion/4283.html' target='_blank'>【Notion教程】Notion 链接到其它页面&amp;双向链接</a>
+* <a href='http://www.javatiku.cn/notion/4399.html' target='_blank'>【Notion教程】Lists 列表视图</a>
+* <a href='http://www.javatiku.cn/notion/4389.html' target='_blank'>【Notion教程】Boards 看板视图</a>
+* <a href='http://www.javatiku.cn/notion/4373.html' target='_blank'>【Notion教程】Tables 表格视图</a>
+* <a href='http://www.javatiku.cn/notion/4352.html' target='_blank'>【Notion教程】Relations &amp; rollups链接与统计</a>
+* <a href='http://www.javatiku.cn/notion/4351.html' target='_blank'>【Notion教程】在 Notion 移动端使用数据库</a>
 <!-- blog ends -->
 
 </p>
