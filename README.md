@@ -15,7 +15,7 @@ Hi，欢迎来到我的Github。
 
 我是程序员D哥，喜欢编码，曾在安全、游戏、支付等领域从事过开发工作。
 
-目前，全身投入web3、量化交易，创业中...
+目前，全身投入web3，创业中...
 
 </p>
 
@@ -52,8 +52,4 @@ Hi，欢迎来到我的Github。
   width="460"
   src="https://github-readme-stats.vercel.app/api/?username=yrzx404&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676"
   />
-</p>
-
-<p>
-    <img alt="yrzx404's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=yrzx404&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" />
 </p>
